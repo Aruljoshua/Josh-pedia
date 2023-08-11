@@ -11,6 +11,9 @@ Theme Selection: Enjoy a personalized experience with the option to switch betwe
 
 ## Technologies Used
 Frontend: React, Redux
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
-Styling: CSS (with themes)
+
+Styling: CSS 
