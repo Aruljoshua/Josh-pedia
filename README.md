@@ -9,7 +9,7 @@ Photo Sharing: Upload and share your favorite pictures with your friends and fol
 Profile Viewing: Easily view and explore user profiles, including their posts.
 Theme Selection: Enjoy a personalized experience with the option to switch between dark and light themes.
 
-##Technologies Used
+## Technologies Used
 Frontend: React, Redux
 Backend: Node.js, Express.js
 Database: MongoDB
